@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/Extra
+cd $HOME/delet
 
 install() {
 	    cd tg
