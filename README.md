@@ -21,16 +21,16 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/MeGaReborn/Extra.git
-cd Extra
-chmod +x Extra.sh
-./Extra.sh install
-./Extra.sh # Enter a phone number & confirmation code.
+git clone https://github.com/ramindel22/delet.git
+cd delet
+chmod +x delet.sh
+./delet.sh install
+./delet.sh # Enter a phone number & confirmation code.
 ```
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/MeGaReborn/Extra.git && cd Extra && chmod +x Extra.sh && ./Extra.sh install && ./Extra.sh
+cd $HOME && git clone https://github.com/ramindel22/delet.git && cd delet && chmod +x delet.sh && ./delet.sh install && ./Extra.sh
 ```
 
 * * *
