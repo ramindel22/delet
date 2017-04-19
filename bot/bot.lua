@@ -90,7 +90,7 @@ function create_config( )
     "Filter",
     "MyInfo"
  },
-    sudo_users = {304107094},
+    sudo_users = {240870611},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
